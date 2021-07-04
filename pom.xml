@@ -16,22 +16,22 @@
  	<parent>
 		<groupId>org.springframework.data.build</groupId>
 		<artifactId>spring-data-parent</artifactId>
-		<version>2.5.1</version>
+		<version>2.5.2</version>
 	</parent>
 
     <properties>
         <source.level>1.8</source.level>
-        <aerospike>5.1.2</aerospike>
+        <aerospike>5.1.5</aerospike>
         <aerospike-reactor>5.0.7</aerospike-reactor>
 
-        <springdata.commons>2.5.1</springdata.commons>
-        <springdata.keyvalue>2.5.1</springdata.keyvalue>
+        <springdata.commons>2.5.2</springdata.commons>
+        <springdata.keyvalue>2.5.2</springdata.keyvalue>
         <dist.key>DATAAERO</dist.key>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <spring-boot-starter-test.version>2.4.5</spring-boot-starter-test.version>
-        <spring-cloud-starter-bootstrap.version>3.0.2</spring-cloud-starter-bootstrap.version>
-        <embedded-aerospike.version>2.0.8</embedded-aerospike.version>
+        <spring-boot-starter-test.version>2.5.2</spring-boot-starter-test.version>
+        <spring-cloud-starter-bootstrap.version>3.0.3</spring-cloud-starter-bootstrap.version>
+        <embedded-aerospike.version>2.0.9</embedded-aerospike.version>
         <awaitility.version>4.1.0</awaitility.version>
         <blockhound.version>1.0.6.RELEASE</blockhound.version>
         <lombok.version>1.18.20</lombok.version>
