@@ -31,7 +31,7 @@
 
         <spring-boot-starter-test.version>2.4.5</spring-boot-starter-test.version>
         <spring-cloud-starter-bootstrap.version>3.0.2</spring-cloud-starter-bootstrap.version>
-        <embedded-aerospike.version>2.0.8</embedded-aerospike.version>
+        <embedded-aerospike.version>2.0.10</embedded-aerospike.version>
         <awaitility.version>4.1.0</awaitility.version>
         <blockhound.version>1.0.6.RELEASE</blockhound.version>
         <lombok.version>1.18.20</lombok.version>
